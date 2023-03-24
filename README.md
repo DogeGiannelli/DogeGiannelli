@@ -10,7 +10,6 @@ I'm from Italy and now living in Milan. All of my projects are available **here*
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
 <a href="https://twitter.com/DogeGiannelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DogeGiannelli" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/alessio-giannelli-11b718201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/alessio-giannelli-11b718201" height="30" width="40" /></a>
 <a href="https://www.instagram.com/g.executable/?next=%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="#3354" height="30" width="40" /></a>
