@@ -44,5 +44,5 @@ I'm from Italy and now living in Milan. All of my projects are available **here*
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=N0name99&show_icons=true&locale=en" alt="Alessio Giannelli" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DogeGiannelli&show_icons=true&locale=en" alt="Alessio Giannelli" /></p>
 
