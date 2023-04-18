@@ -7,7 +7,7 @@ My name is **Alessio Giannelli** and I'm currently pursing a Master's Degree in 
 I'm from Italy and now living in Milan. All of my projects are available **here**.👨‍💻 
 
 - 📫 How to reach me:
-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) **gconsdata@gmail.com**
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) **gconsdata@gmail.com**
 
 
 <h3 align="left">Technologies and Tools:</h3>
