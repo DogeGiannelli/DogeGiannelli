@@ -1,8 +1,9 @@
-<h1 align="center">Hello, I am a Data Scientist👋</h1>
+<h1 align="center">Hello, I am a Data Scientist and AI developer👋</h1>
 
 
 
-My name is **Alessio Giannelli** and I'm currently pursing a Master's Degree in **Data Science** at University of Milano-Bicocca.
+My name is **Alessio Giannelli** and I'm currently pursing a Master's Degree in **Data Science & AI** at University of Milano-Bicocca.
+Web3 and Blockchain Addicted.
 
 I'm from Italy and now living in Milan. All of my projects are available **here**.👨‍💻 
 
