@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am a Data Scientist and AI developer👋</h1>
+<h1 align="center">Hello, I am a Data Scientist and AI Developer👋</h1>
 
 
 
