@@ -8,7 +8,7 @@ I'm a Web3 and Blockchain Addicted.
 
 I'm from Italy and now living in Milan. All of my projects are available **here**.👨‍💻 
 
-- 📫 How to reach me: **gconsdata@gmail.com**
+- 📫 **gconsdata@gmail.com**
 
 
 <h3 align="left">Technologies and Tools:</h3>
