@@ -4,7 +4,7 @@
 
 My name is **Alessio Giannelli** and I'm currently work in Borsa Italiana as Data Engineering.
 
-I'm a Web3 and Blockchain Addicted ![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white)].
+I'm a Web3 and Blockchain Addicted.
 
 I'm from Italy and now living in Milan. All of my projects are available **here**.👨‍💻 
 
