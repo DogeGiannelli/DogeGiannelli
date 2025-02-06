@@ -1,9 +1,10 @@
-<h1 align="center">Hello, I am a Data Scientist and AI Developer👋</h1>
+<h1 align="center">Hello, I am a Data Engineer and AI Developer👋</h1>
 
 
 
-My name is **Alessio Giannelli** and I'm currently pursing a Master's Degree in **Data Science & AI** at University of Milano-Bicocca.
-Web3 and Blockchain Addicted.
+My name is **Alessio Giannelli** and I'm currently work in Borsa Italiana as Data Engineering.
+
+I'm a Web3 and Blockchain Addicted ![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white)].
 
 I'm from Italy and now living in Milan. All of my projects are available **here**.👨‍💻 
 
@@ -32,7 +33,7 @@ I'm from Italy and now living in Milan. All of my projects are available **here*
 
 **Editors & Tools**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)]
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=flat&logo=rstudio&logoColor=white)
