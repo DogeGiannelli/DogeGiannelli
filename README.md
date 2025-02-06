@@ -34,7 +34,7 @@ I'm from Italy and now living in Milan. All of my projects are available **here*
 
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=flat&logo=rstudio&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
-![Visual Studio Code](https://camo.githubusercontent.com/373813d047c4e8785b6b6eb8d21f1d09e593c5ca2b869c8d4d0089f950d6478d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Knime](https://img.shields.io/badge/KNIME-informational?style=flat&color=FFFF00)
 
 
