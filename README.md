@@ -32,8 +32,8 @@ I'm from Italy and now living in Milan. All of my projects are available **here*
 
 **Editors & Tools**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![[Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)]
-![[Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)]
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=flat&logo=rstudio&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
 ![Knime](https://img.shields.io/badge/KNIME-informational?style=flat&color=FFFF00)
